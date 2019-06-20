@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.h
+ostream
+-
+../wwmathcore/MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+Surface.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.h
+../wwmathcore/MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+windows.h
+-
+istream
+-
+Screen.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+../wwmathcore/World.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+exception
+-
+string
+-
+cmath
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+vector
+-
+MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+vector
+-
+ostream
+-
+iostream
+-
+cassert
+-
+cmath
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.h
+MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.cpp
+iostream
+-
+cassert
+-
+World.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+MMatrix.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+../wwgraphicscore/Drawer.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+Polygon2D.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+vector
+-
+../wwdisplayobjects/Object.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.h
+../wwgraphicscore/Screen.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+

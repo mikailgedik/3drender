@@ -1,0 +1,140 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.cpp
+cassert
+-
+Object.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.h
+../wwmathcore/MMatrix.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.h
+ostream
+-
+../wwmathcore/MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+Surface.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.cpp
+Surface.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Surface.h
+../wwmathcore/MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.cpp
+iostream
+-
+Drawer.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+chrono
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+windows.h
+-
+istream
+-
+Screen.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+../wwmathcore/World.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+exception
+-
+string
+-
+cmath
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/main.cpp
+windows.h
+-
+iostream
+-
+chrono
+-
+cmath
+-
+Drawer.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+../wwmathcore/MMatrix.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+typeinfo
+-
+windowsx.h
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.cpp
+cassert
+-
+cmath
+-
+MMatrix.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+vector
+-
+MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.cpp
+cassert
+-
+iostream
+-
+MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+vector
+-
+ostream
+-
+iostream
+-
+cassert
+-
+cmath
+-
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.cpp
+Polygon2D.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.h
+MVector.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MVector.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.cpp
+iostream
+-
+cassert
+-
+World.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+MMatrix.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/MMatrix.h
+../wwgraphicscore/Drawer.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Drawer.h
+Polygon2D.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/Polygon2D.h
+
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwmathcore/World.h
+vector
+-
+../wwdisplayobjects/Object.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwdisplayobjects/Object.h
+../wwgraphicscore/Screen.h
+C:/Users/Mikail Gedik/CLionProjects/3DGraphicsCalculator/wwgraphicscore/Screen.h
+
